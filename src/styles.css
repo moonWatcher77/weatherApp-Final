@@ -37,11 +37,11 @@ h4 {
   font-weight: bold;
 }
 
-h5{
-  font-size: 15px!important;
+h5 {
+  font-size: 15px !important;
 }
 
-#description{
+#description {
   font-weight: bold;
   font-size: 30px !important;
 }
@@ -50,7 +50,7 @@ h5{
   margin-top: 10px;
   margin-left: 10px;
   border-radius: 10px;
-  width: 560px;
+  width: 562px;
   height: 570px;
   display: block;
   background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
@@ -65,9 +65,8 @@ h5{
 }
 
 #button-current {
-  position:absolute;
+  position: absolute;
   left: 188px;
-  
 }
 
 .btn-outline-light {
@@ -93,22 +92,20 @@ h5{
   top: 90px !important;
 }
 
-#celsius{
+#celsius {
   font-size: 50px;
 }
 
-
-
 .containerWeek {
-  display: inline!important;
   color: white;
   font-family: "Nunito", sans-serif;
   top: 435px;
+  display: block !important;
+  margin: 0 auto;
+  max-width: 500px;
 }
 
-
-
-#hourIcon{
+#hourIcon {
   width: 65px !important;
 }
 
@@ -116,8 +113,6 @@ h5{
   font-size: 12px;
   text-align: center;
 }
-
-
 
 footer {
   font-size: 12px;
